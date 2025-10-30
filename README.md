@@ -8,7 +8,7 @@ All notebooks are publicly available on Kaggle — this repository simply serves
 ## 📂 Notebooks
 
 | # | Title | Description | Kaggle Link |
-|:-------:|:------:|:-------------:|:-------------:|:------:|
+|:-------:|:------:|:-------------:|:-------------:|
 | 1 | **BMW Sales Data Exploration** | Comprehensive EDA on BMW car sales data — trend analysis, correlations, and insights. | [🔗 View on Kaggle](https://www.kaggle.com/code/asiqhasan/bmw-sales-data-exploration)  
 
 > 🧩 Each notebook includes markdown explanations, step-by-step analysis, and polished visualizations.
