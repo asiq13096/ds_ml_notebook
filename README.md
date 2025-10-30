@@ -25,7 +25,7 @@ All notebooks are publicly available on Kaggle — this repository simply serves
 ---
 
 ## ⚙️ Tools & Technologies
-[![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.14-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
