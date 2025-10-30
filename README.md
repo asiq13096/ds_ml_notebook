@@ -55,4 +55,4 @@ All notebooks are publicly available on Kaggle — this repository simply serves
 
 ---
 
-*Last updated: October 2025*
+*Last updated: October, 2025*
