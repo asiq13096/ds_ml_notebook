@@ -1,4 +1,4 @@
-# 📘 Kaggle Notebook Collection by asiq13096
+# 📘 Kaggle Notebook Collection
 
 Welcome to my collection of **Kaggle notebooks**, where I explore data analysis, visualization, and machine learning projects across various domains.  
 All notebooks are publicly available on Kaggle — this repository simply serves as a **central hub** to list and describe them.
