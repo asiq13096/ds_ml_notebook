@@ -25,17 +25,16 @@ All notebooks are publicly available on Kaggle — this repository simply serves
 ---
 
 ## ⚙️ Tools & Technologies
-[![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-data--analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-numerical-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-statistical--plots-1f77b4?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-interactive-2b2b2b?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-notebooks-f37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Notebook](https://img.shields.io/badge/Notebook-Jupyter%20Notebook-4B8BBE?style=for-the-badge&logo=readthedocs&logoColor=white)](https://jupyter.org/)
-[![Kaggle Datasets](https://img.shields.io/badge/Kaggle-Datasets-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets)
-[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code)
+[![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-1f77b4?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-2b2b2b?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/python/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Kaggle Datasets](https://img.shields.io/badge/Kaggle%20Datasets-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets)
+[![Kaggle Notebook](https://img.shields.io/badge/Kaggle%20Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code)
 
 
 ---
