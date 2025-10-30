@@ -1,4 +1,4 @@
-# 📘 Kaggle Notebook Collection by [Your Name]
+# 📘 Kaggle Notebook Collection by asiq13096
 
 Welcome to my collection of **Kaggle notebooks**, where I explore data analysis, visualization, and machine learning projects across various domains.  
 All notebooks are publicly available on Kaggle — this repository simply serves as a **central hub** to list and describe them.
@@ -7,11 +7,9 @@ All notebooks are publicly available on Kaggle — this repository simply serves
 
 ## 📂 Notebooks
 
-| # | Title | Description | Kaggle Link | Tags |
-|:-:|:------|:-------------|:-------------|:------|
-| 1 | **BMW Sales Data Exploration** | Comprehensive EDA on BMW car sales data — trend analysis, correlations, and insights. | [🔗 View on Kaggle](https://www.kaggle.com/code/asiqhasan/bmw-sales-data-exploration) | `EDA` `Data Visualization` |
-| 2 | *(Add your next notebook here)* | *(Short 1–2 line summary)* | [🔗 View on Kaggle](https://www.kaggle.com/code/...) | `Machine Learning` `Pandas` |
-| 3 | ... | ... | ... | ... |
+| # | Title | Description | Kaggle Link |
+|:---:|:------:|:-------------:|:-------------:|:------:|
+| 1 | **BMW Sales Data Exploration** | Comprehensive EDA on BMW car sales data — trend analysis, correlations, and insights. | [🔗 View on Kaggle](https://www.kaggle.com/code/asiqhasan/bmw-sales-data-exploration) |  
 
 > 🧩 Each notebook includes markdown explanations, step-by-step analysis, and polished visualizations.
 
@@ -27,7 +25,7 @@ All notebooks are publicly available on Kaggle — this repository simply serves
 ---
 
 ## ⚙️ Tools & Technologies
-Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly • Scikit-learn • Kaggle Datasets
+Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly • Scikit-learn • jupyter • notebook • Kaggle Datasets • kaggle notebook   
 
 ---
 
@@ -40,8 +38,8 @@ Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly • Scikit-lea
 
 ## 🌐 Connect
 📊 **Kaggle:** [@asiqhasan](https://www.kaggle.com/asiqhasan)  
-💼 **GitHub:** [Your GitHub Profile](https://github.com/yourusername)  
-✉️ **Contact:** [your.email@example.com]
+💼 **GitHub:** [Your GitHub Profile](https://github.com/asiq13096)  
+✉️ **Contact:** [asiq13096@gmail.com]
 
 ---
 
