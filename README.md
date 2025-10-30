@@ -33,8 +33,10 @@ All notebooks are publicly available on Kaggle — this repository simply serves
 [![Plotly](https://img.shields.io/badge/Plotly-2b2b2b?style=flat-square&logo=plotly&logoColor=white)](https://plotly.com/python/)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-f37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Kaggle Datasets](https://img.shields.io/badge/Kaggle%20Datasets-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets)
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle%20Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code)
+
 
 
 ---
